@@ -1,0 +1,6 @@
+{
+  "name": "WallBox",
+  "description": "Premium curated wallpapers for mobile devices. Download and set beautiful high-res wallpapers instantly with an admin curation panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
